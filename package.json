@@ -1,0 +1,17 @@
+{
+  "name": "testing_webservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "booking.tests.js",
+  
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test:api": "node --test tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
